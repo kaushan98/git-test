@@ -8,8 +8,9 @@ public class Helloworld {
 			int y=5;
 
 		    int z=x+y;
-		    System.out.println(z)
-		    System.out.println(z)
+		    System.out.println(z);
+		    System.out.println(z);
+		    System.out.println(z);
 		    
 
 
